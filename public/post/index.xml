@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Creative portfolio</title>
+    <title>Posts on Benjamin Ong</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Creative portfolio</description>
+    <description>Recent content in Posts on Benjamin Ong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;2016 Your name or company</copyright>
+    <copyright>&amp;copy;2016 Benjamin Ong</copyright>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
@@ -21,6 +21,24 @@
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/_book/including-plots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/_book/including-plots/</guid>
+      <description>Hello R Markdown  div.sourceCode { overflow-x: auto; } table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode { margin: 0; padding: 0; vertical-align: baseline; border: none; } table.sourceCode { width: 100%; line-height: 100%; } td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; color: #aaaaaa; border-right: 1px solid #aaaaaa; } td.sourceCode { padding-left: 5px; } code  span.kw { color: #007020; font-weight: bold; } /* Keyword */ code  span.dt { color: #902000; } /* DataType */ code  span.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/_book/r-markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/_book/r-markdown/</guid>
+      <description>Hello R Markdown  div.sourceCode { overflow-x: auto; } table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode { margin: 0; padding: 0; vertical-align: baseline; border: none; } table.sourceCode { width: 100%; line-height: 100%; } td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; color: #aaaaaa; border-right: 1px solid #aaaaaa; } td.sourceCode { padding-left: 5px; } code  span.kw { color: #007020; font-weight: bold; } /* Keyword */ code  span.dt { color: #902000; } /* DataType */ code  span.</description>
     </item>
     
   </channel>
